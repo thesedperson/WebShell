@@ -26,7 +26,6 @@
 
 ### LEGAL DISCLAMER
 
-``` The author does not hold any responsibility about the bad use of this tool/script,
-remember that attacking targets access to private files without permissions is illegal and punish
-by law, this tool/script was build to show how resource files can automate tasks.
+``` This WebShell is a project made for RedTeam Hackers Academy
+For Educational Purposes
 ```
